@@ -21,4 +21,4 @@ This Power BI dashboard analyzes product, category, and supplier-level sales per
 
 Created for data storytelling, business insight delivery, and portfolio presentation.
 
-[Dashboard Overview](images/northwind_dashboard_preview.png)
+[Dashboard Overview] (https://github.com/Sunjida-Haque/Sales-and-Customer-Insights-Dashboard-using-Northwind-Database/blob/main/sales_dashboard.jpg)
